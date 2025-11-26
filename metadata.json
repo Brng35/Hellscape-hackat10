@@ -1,0 +1,5 @@
+{
+  "name": "React Raycaster Split-Screen",
+  "description": "A Doom-style 2.5D raycasting shooter with 2-player split-screen, 5 levels, and entity combat.",
+  "requestFramePermissions": []
+}
